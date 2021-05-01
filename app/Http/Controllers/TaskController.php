@@ -1,4 +1,8 @@
 <?php
+/**
+ * @package  crud
+ * @author   corinfotech by chandrashekhar
+ */
 
 namespace App\Http\Controllers;
 
